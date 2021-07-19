@@ -1,0 +1,24 @@
+/* This for styling the restaurant info that is displayed to the right of the map when each restaurant is clicked. 
+Make all text white except for the name of the restaurant in the title, as well as the name, address, phone number, hours, and description headings
+Color the other text using a span */
+.restTitle{
+    color: white;
+}
+
+.restTitle span{
+    color: rgb(128, 160, 248);
+}
+
+.detailsWrapper{
+    width: 400px;
+
+}
+
+.details{
+    color: white;
+}
+
+.details span{
+    color: rgb(150, 177, 253);
+    font-weight: bold;
+}

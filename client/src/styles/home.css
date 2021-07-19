@@ -1,0 +1,58 @@
+/* Resize the map */
+#map{
+  height: 400px;
+  width: 600px;
+}
+
+.wrapper{
+  /* Make the wrapper a flexbox */
+  display: flex;
+  /* If there isn't enough horizontal space, the map will be moved down */
+  flex-wrap: wrap;
+  justify-content: center;
+  /* Puts a 30px gap between each element */
+  gap: 30px;
+}
+
+/* Change the background color of the page */
+html{
+  background-color: rgb(141, 65, 65);
+}
+
+/* Center the title, give it a size and color. Add a right margin to shift it slightly to the left. */
+.title{
+  text-align: center;
+  color: white;
+  margin-right: 95px;
+  font-size: 50px;
+}
+
+/* Represents each restaurant in the nav bar. Add a color, border, and width to the nav bar. Add some margins/padding to position the navbar properly. Otherwise it would be too close to the map. Remove the underline from each name */
+.restName{
+  color: white;
+  border: 2px solid white;
+  /* To round off the corners */
+  border-radius: 5px;
+  width: 100%;
+  padding: 5px;
+  margin: 5px;
+  text-decoration: none;
+}
+
+/* Change the color of the tab when hovered over in the navbar */
+.restName:hover{
+  background-color: rgb(199, 89, 89);
+}
+
+/* The wrapper that holds the navbar. Make it a flexbox, and flexdirection column to have a vertical navbar */
+.restList{
+  display: flex;
+  flex-direction: column;
+}
+
+/* When the highlight class is added, the color of the element will change. This is so that when a certain tab in the navbar is clicked, it stays highlighted until a new tab is clicked. */
+.highlight{
+  background-color: rgb(199, 89, 89);
+}
+
+

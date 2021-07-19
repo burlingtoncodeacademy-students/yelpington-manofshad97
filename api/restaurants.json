@@ -1,0 +1,74 @@
+[
+  {
+    "id": "annam-brahma",
+    "name": "Annam Brahma",
+    "address": "8443 164th St, Queens, NY 11432",
+    "phoneNumber": "(718) 523-2600",
+    "hours": "12:00 pm - 8:00 pm",
+    "description": "A turquoise storefront marks this Indian vegetarian eatery with a Sunday buffet & a spiritual vibe..",
+    "location": [40.71192094988723,-73.80349120809991]
+  },
+  {
+    "id": "jennifers-restaurant",
+    "name": "Jennifer's Restaurant",
+    "address": "153-41 Hillside Avenue, Queens, NY 11432",
+    "phoneNumber": "(718) 523-2600",
+    "hours": "7:00 am - 10:00 pm",
+    "description": "Compact, no-frills counter serve dishing out heaping portions of traditional Dominican cooking.",
+    "location": [40.7078107, -73.8030216]
+  },
+  {
+    "id": "johns-pizzeria",
+    "name": "John's Pizzeria",
+    "address": "83-40 Parsons Blvd, Queens, NY 11432",
+    "phoneNumber": " (718) 523-1381",
+    "hours": "11:00 am - 9:00 pm",
+    "description": "Relaxed Italian mainstay offering classic pizzas & other red-sauce fare, plus beer & wine.",
+    "location": [40.713586,-73.807512]
+  },
+  {
+    "id": "dallas-bbq",
+    "name": "Dallas BBQ",
+    "address": "89-14 Parsons Blvd, Jamaica, NY 11432",
+    "phoneNumber": "(718) 215-7300",
+    "hours": "11:00 am - 11:00 pm",
+    "description": "Bustling local chain serving big plates of saucy meats & other classic fare plus jumbo margaritas.",
+    "location": [40.7055448,-73.8016911]
+  },
+  {
+    "id": "checkers",
+    "name": "Checkers",
+    "address": "83-45 Parsons Blvd, Queens, NY 11432",
+    "phoneNumber": "(718) 291-4738",
+    "hours": "10:00 am - 3:00 am",
+    "description": "Chain eatery serving fast-food classics like burgers, hot dogs, french fries & shakes.",
+    "location": [40.71447296364068,-73.80718177099968]
+  },
+  {
+    "id": "don-nicos",
+    "name": "Don Nicos",
+    "address": "90-08 161 St, Jamaica, NY 11432",
+    "phoneNumber": "(718) 297-6426",
+    "hours": "8:30 am - 9:00 pm",
+    "description": "Casual, convivial Mexican restaurant offering classic staples plus happy hour deals & margaritas.",
+    "location": [40.70484924316406,-73.7990493774414]
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis",
+    "address": "162-23 Hillside Avenue, Jamaica, NY 11432",
+    "phoneNumber": "(718) 739-8443",
+    "hours": "10:00 am - 10:00 pm",
+    "description": "Easygoing cafe offering homestyle Jamaican cooking, including fried chicken & breakfast.",
+    "location": [40.7089336,-73.7993664]
+  },
+  {
+    "id": "beijing-dumpling",
+    "name": "Beijing Dumpling House",
+    "address": "88-38 Sutphin Blvd, Queens, NY 11435",
+    "phoneNumber": "(718) 297-2935",
+    "hours": "10:00 am - 10:00 pm",
+    "description": "A menu specializing in dumplings & quick-service Chinese cuisine & drinks in a no-frills setting.",
+    "location": [40.7040168,-73.8090289]
+  }
+]
